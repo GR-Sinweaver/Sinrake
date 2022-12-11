@@ -2,7 +2,7 @@ local Unlocker, awful, sinrake = ...
 local feral = sinrake.druid.feral
 
 -- stuff out here only runs once, when the file is first loaded.
-print("Sinrake druid locked and loaded!")
+print("Sinrake Feral Rotation Loaded!")
 
 -- this is the routine actor function.
 feral:Init(function()
@@ -17,5 +17,4 @@ feral:Init(function()
         thrash()
         swipe()
     end
-end)
 end)

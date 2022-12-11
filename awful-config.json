@@ -1,0 +1,7 @@
+{
+    "load": [
+        "sinrake",
+        "Druid/Feral",
+        "Druid/spells/Feral",
+    ]
+}
